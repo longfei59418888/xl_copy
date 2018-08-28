@@ -1,6 +1,6 @@
 {
   "name": "xl_copy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "用于复制操作，未做兼容特殊处理",
   "main": "index.js",
   "scripts": {
